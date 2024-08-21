@@ -1,0 +1,16 @@
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica__3.Encapsulamiento.Encapsulamiento.resources
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.AssemblyInfo.cs
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\practica #3\practica #3\bin\Debug\net8.0-windows\practica #3.exe
+C:\Users\aleja\source\repos\practica #3\practica #3\bin\Debug\net8.0-windows\practica #3.deps.json
+C:\Users\aleja\source\repos\practica #3\practica #3\bin\Debug\net8.0-windows\practica #3.runtimeconfig.json
+C:\Users\aleja\source\repos\practica #3\practica #3\bin\Debug\net8.0-windows\practica #3.dll
+C:\Users\aleja\source\repos\practica #3\practica #3\bin\Debug\net8.0-windows\practica #3.pdb
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.dll
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\refint\practica #3.dll
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.pdb
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\practica #3.genruntimeconfig.cache
+C:\Users\aleja\source\repos\practica #3\practica #3\obj\Debug\net8.0-windows\ref\practica #3.dll
