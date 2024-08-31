@@ -1,0 +1,16 @@
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\bin\Debug\net8.0-windows\PersonaLista.exe
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\bin\Debug\net8.0-windows\PersonaLista.deps.json
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\bin\Debug\net8.0-windows\PersonaLista.runtimeconfig.json
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\bin\Debug\net8.0-windows\PersonaLista.dll
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\bin\Debug\net8.0-windows\PersonaLista.pdb
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.Form1.resources
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.AssemblyInfo.cs
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.dll
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\refint\PersonaLista.dll
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.pdb
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\PersonaLista.genruntimeconfig.cache
+C:\Users\aleja\source\repos\PersonaLista\PersonaLista\obj\Debug\net8.0-windows\ref\PersonaLista.dll
